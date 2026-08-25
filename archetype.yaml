@@ -1,0 +1,12 @@
+---
+description: "Go Resource Library: Pulsar"
+authors: ["Jimmie Fulton <jimmie@ybor.ai>"]
+languages: ["Go"]
+tags: ["pulsar", "resource", "library"]
+
+requires:
+  archetect: "3.0.0"
+
+templating:
+  trim_blocks: true
+  lstrip_blocks: true
